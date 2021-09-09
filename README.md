@@ -35,7 +35,7 @@
 
 - 16 .	Projection : Citez les attributs d’une classe retournés par un service web.
 
-Spécification | #1 | #2 | #3 
---- | --- | --- | --- 
-Seconds | 301 | 283 | 290 
+Spécification | Implémentation de référence (Oracle) | Autres implémentations 
+--- | --- | --- 
+JAX-WS | JaxWSImpl (Oracle) | CXF 
 
