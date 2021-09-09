@@ -35,7 +35,17 @@
 
 - 16 .	Projection : Citez les attributs d’une classe retournés par un service web.
 
+- 17 .	Spécifications et implémentations
+
 Spécification | Implémentation de référence (Oracle) | Autres implémentations 
 --- | --- | --- 
 JAX-WS | JaxWSImpl (Oracle) | CXF 
+--- | --- | --- 
+JAX-RS | Jersey (Oracle) | RestEasy(Jboss), SpringMVC 
+--- | --- | --- 
+JPA | Eclipselink (Oracle) | Hibernate (Jboss), Ibatis 
+--- | --- | --- 
+Serveur Application | Glassfish (Oracle) | Wildfly (Jboss), websphere(IBM) 
+--- | --- | --- 
+Bean validation | Hibernate Validation | Apache Bean Validation (formerly agimatec)
 
