@@ -2,9 +2,9 @@
 
 #### Partie 3: Web service
 
-- 1 .	Un API (Application Programming Interface) est un ensemble de règles : interfaces Annotations et des classes abstraites.
+- 1 .	Un API (Application Programming Interface) est un ensemble de règles : interfaces Annotations et des classes abstraites. permettent à votre produit ou service de communiquer avec d'autres produits et services sans connaître les détails de leur mise en œuvre.
 
-- 2 .	Service web : c’est des composants web basés sur HTTP pour la communication et l'échange de données entre applications et systèmes distribués. On a deux spécifications  (JAX-WS et JAX-RS)
+- 2 .	Service web : C’est des composants web basés sur HTTP pour la communication et l'échange de données entre applications et systèmes distribués. On a deux spécifications  (JAX-WS et JAX-RS)
 
 - 3 .	JAX-RS est une spécification JEE pour créer des web service basé sur la norme Restful. et interagit avec les messages XML, JSON, HTML… 
 (Implementations REST Easy ET Jersey, Spring MVC RestController, spring data rest).
