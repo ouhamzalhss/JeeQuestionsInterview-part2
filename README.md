@@ -39,7 +39,7 @@
 
 Spécification | Implémentation de référence (Oracle) | Autres implémentations 
 --- | --- | --- 
-JAX-WS | JaxWSImpl (Oracle) | CXF 
+JAX-WS | GlassFish Metro (Oracle) | CXF 
 JAX-RS | Jersey (Oracle) | RestEasy(Jboss), SpringMVC 
 JPA | Eclipselink (Oracle) | Hibernate (Jboss), Ibatis 
 Serveur Application | Glassfish (Oracle) | Wildfly (Jboss), websphere(IBM) 
